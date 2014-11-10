@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IPL Scheduler 2014</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ipl2014">IPL2014</string>
+    <string name="title_activity_previous_ipl">PreviousIPL</string>
+    <string name="banner_ad_unit_id">a1536295138c1ad</string>
+
+</resources>
